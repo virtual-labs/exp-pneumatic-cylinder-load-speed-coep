@@ -1,0 +1,218 @@
+
+/* #main-div { */
+/* 	width:90%; */
+/* 	height:auto; */
+/* 	 margin:10px 5%; */
+/* 	border: 3px solid #666; */
+/* /* 		background-color:#ededf1; */ */
+/* background-image: url("../images/bg.jpg"); */
+/* font-family: 'Open Sans Condensed','Arial Narrow', serif; */
+/* padding: 20px 10%; */
+/* } */
+
+.well
+{}
+#Section1 h1{background: #05938f;
+padding: 6px 15px;
+margin: 10px 0;
+font-size: 19px;
+letter-spacing: 1px;
+font-weight: bold;
+color: #fff;
+font-family: Cambria, Georgia, serif;}
+
+#Section1 p  {
+ border-left: 8px solid rgba(63,148,148, 0.3);
+ margin:5px 0 20px 0;
+ font-size:15px;
+ padding-left: 15px;
+ font-weight: normal;
+ color:#272525;
+ text-align: justify;
+ font-family: Cambria, Georgia, serif;
+ }
+ 
+ #Section1 ul {
+ border-left: 8px solid rgba(63,148,148, 0.3);
+ margin:5px 0 20px 0;
+ font-size:15px;
+ padding-left: 29px;
+ font-weight: normal;
+ color:#272525;
+ font-family: Cambria, Georgia, serif;
+ }
+ 
+ #Section2 img
+ {width:54%;}
+ 
+ #Section2 h1{background: #05938f;
+padding: 6px 15px;
+margin: 10px 0;
+font-size: 19px;
+letter-spacing: 1px;
+font-weight: bold;
+color: #fff;
+font-family: Cambria, Georgia, serif;}
+
+#Section2 h2 {
+   background:#8c9090;
+ padding: 9px 15px;
+ margin:10px 0;
+ font-size:18px;
+ letter-spacing:1px;
+ font-weight: bold;
+ color:#fff;
+ font-family: Cambria, Georgia, serif;
+ }
+#Section2 p  {
+ border-left: 8px solid rgba(63,148,148, 0.3);
+ margin:5px 0 20px 0;
+ font-size:15px;
+ padding-left: 15px;
+ font-weight: normal;
+ color:#272525;
+ text-align: justify;
+ font-family: Cambria, Georgia, serif;
+ }
+ 
+ #Section2 span  {
+ font-size:15px;
+ padding-left: 30px;
+ color:#272525;
+ font-family: Cambria, Georgia, serif;
+ }
+ 
+ #Section2 section  {
+ font-size:15px;
+ padding: 5px 30px;
+ color:#272525;
+ font-family: Cambria, Georgia, serif;
+ }
+ 
+  #Section2 ul {
+
+ margin:5px 0 20px 0;
+ font-size:15px;
+ padding-left: 29px;
+ font-weight: normal;
+ color:#272525;
+ font-family: Cambria, Georgia, serif;
+ }
+  
+ #Section3 h1{background: #05938f;
+padding: 6px 15px;
+margin: 10px 0;
+font-size: 19px;
+letter-spacing: 1px;
+font-weight: bold;
+color: #fff;
+font-family: Cambria, Georgia, serif;}
+
+#Section3 ol {
+
+ margin:5px 0 20px 0;
+ font-size:15px;
+ padding-left: 29px;
+ font-weight: normal;
+ color:#272525;
+ font-family: Cambria, Georgia, serif;
+ }
+ 
+ #Section4 h1{background: #05938f;
+padding: 6px 15px;
+margin: 10px 0;
+font-size: 19px;
+letter-spacing: 1px;
+font-weight: bold;
+color: #fff;
+font-family: Cambria, Georgia, serif;}
+
+#Section4 p  {
+ border-left: 8px solid rgba(63,148,148, 0.3);
+ margin:5px 0 20px 0;
+ font-size:15px;
+ padding-left: 15px;
+ font-weight: normal;
+ color:#272525;
+ text-align: justify;
+ font-family: Cambria, Georgia, serif;
+ }
+ #Section5 h1{background: #05938f;
+padding: 6px 15px;
+margin: 10px 0;
+font-size: 19px;
+letter-spacing: 1px;
+font-weight: bold;
+color: #fff;
+font-family: Cambria, Georgia, serif;}
+
+#Section5 ul {
+
+ margin:5px 0 20px 0;
+ font-size:15px;
+ padding-left: 29px;
+ font-weight: normal;
+ color:#272525;
+ font-family: Cambria, Georgia, serif;
+ }
+ #Section6 h1{background: #05938f;
+padding: 6px 15px;
+margin: 10px 0;
+font-size: 19px;
+letter-spacing: 1px;
+font-weight: bold;
+color: #fff;
+font-family: Cambria, Georgia, serif;}
+
+#Section6 
+ ul {
+
+ margin:5px 0 20px 0;
+ font-size:15px;
+ padding-left: 29px;
+ font-weight: normal;
+ color:#272525;
+ font-family: Cambria, Georgia, serif;
+ }
+ 
+ #Section9 h1{background: #05938f;
+padding: 6px 15px;
+margin: 10px 0;
+font-size: 19px;
+letter-spacing: 1px;
+font-weight: bold;
+color: #fff;
+font-family: Cambria, Georgia, serif;}
+ 
+ #Section10 h1{background: #05938f;
+padding: 6px 15px;
+margin: 10px 0;
+font-size: 19px;
+letter-spacing: 1px;
+font-weight: bold;
+color: #fff;
+font-family: Cambria, Georgia, serif;}
+ 
+ #feedback  h1{background: #05938f;
+padding: 6px 15px;
+margin: 10px 0;
+font-size: 19px;
+letter-spacing: 1px;
+font-weight: bold;
+color: #fff;
+font-family: Cambria, Georgia, serif;}
+ #btnPreTest , #btnPostTest ,#btnSubmitTest
+ {     padding: 9px;
+    font-family: Cambria, Georgia, serif;
+    background: #05938f;
+    color: #fff;
+    margin: 10px 0 20px 0;
+    font-size: 20px;
+ }
+ 
+
+ @media screen and (min-width: 100px) and (max-width: 768px) { 
+ #Section2 img
+ {width:100%;}
+ 
+	}

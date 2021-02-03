@@ -89,22 +89,53 @@
 
 
     const myQuestions = [{
-            question: "1.This is a sample question:", ///// Write the question inside double quotes
+            question: "For SA cylinders can producer work in_________direction.", ///// Write the question inside double quotes
             answers: {
-                a: "This is a sample answer A", ///// Write the option 1 inside double quotes
-                b: "This is a sample answer B", ///// Write the option 2 inside double quotes
+                a: "One", ///// Write the option 1 inside double quotes
+                b: "Two", ///// Write the option 2 inside double quotes
+                c: "Both",
+               d: "None of these",
             },
             correctAnswer: "a" ///// Write the correct option inside double quotes
         },
 
-    {
-      question: "<img src='images/8.PNG'><br>Identify the location of Secondary electron detector",  ///// Write the question inside double quotes
-      answers: {
-        a: "<img src='images/1b.png'>",                  ///// Write the option 1 inside double quotes
-        b: "<img src='images/1a.png'>",                  ///// Write the option 2 inside double quotes
-        c: "<img src='images/1c.PNG'>",      },
-      correctAnswer: "c"                ///// Write the correct option inside double quotes
-    },
+		{
+            question: "Pneumatic valve are represented by symbols using _________standard.", ///// Write the question inside double quotes
+            answers: {
+                a: "ISO 1219-3:2006", ///// Write the option 1 inside double quotes
+                b: "ISO 1219-2:2006", ///// Write the option 2 inside double quotes
+                c: "ISO 1219-1:2006",
+               d: "None of these",
+            },
+            correctAnswer: "c" ///// Write the correct option inside double quotes
+        },{
+            question: "Pneumatic direction control valve may be actuated using different means:", ///// Write the question inside double quotes
+            answers: {
+                a: "Manual", ///// Write the option 1 inside double quotes
+                b: "Pneumatic", ///// Write the option 2 inside double quotes
+                c: "Hydraulic  ",
+               d: "All of these",
+            },
+            correctAnswer: "d" ///// Write the correct option inside double quotes
+        },{
+            question: "Singal acting cylinder can be used in following application:", ///// Write the question inside double quotes
+            answers: {
+                a: "Ejecting", ///// Write the option 1 inside double quotes
+                b: "Sorting", ///// Write the option 2 inside double quotes
+                c: "All of these",
+               d: "Clamping",
+            },
+            correctAnswer: "c" ///// Write the correct option inside double quotes
+        },{
+            question: "The piston force exerted by a working element is depend on ", ///// Write the question inside double quotes
+            answers: {
+                a: "Frictional resistance of the sealing components", ///// Write the option 1 inside double quotes
+                b: "All of these", ///// Write the option 2 inside double quotes
+                c: "Air pressure",
+               d: "Cylinder diameter",
+            },
+            correctAnswer: "b" ///// Write the correct option inside double quotes
+        },
 
 
         

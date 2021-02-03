@@ -89,22 +89,53 @@
 
 
      const myQuestions = [{
-            question: "1.This is a sample question:", ///// Write the question inside double quotes
+            question: "In pneumatic direction control valve port P stands for:", ///// Write the question inside double quotes
             answers: {
-                a: "This is a sample answer A", ///// Write the option 1 inside double quotes
-                b: "This is a sample answer B", ///// Write the option 2 inside double quotes
+                a: "Exhaust port", ///// Write the option 1 inside double quotes
+                b: "Primary port", ///// Write the option 2 inside double quotes
+                c: "None of these",
+               d: "Compressor line port",
             },
-            correctAnswer: "a" ///// Write the correct option inside double quotes
+            correctAnswer: "d" ///// Write the correct option inside double quotes
         },
 
-    {
-      question: "<img src='images/8.PNG'><br>Identify the location of Secondary electron detector",  ///// Write the question inside double quotes
-      answers: {
-        a: "<img src='images/1b.png'>",                  ///// Write the option 1 inside double quotes
-        b: "<img src='images/1a.png'>",                  ///// Write the option 2 inside double quotes
-        c: "<img src='images/1c.PNG'>",      },
-      correctAnswer: "c"                ///// Write the correct option inside double quotes
-    },
+		{
+            question: "In pneumatic direction control valve port R stand for:", ///// Write the question inside double quotes
+            answers: {
+                a: "Working port", ///// Write the option 1 inside double quotes
+                b: "Receiver port", ///// Write the option 2 inside double quotes
+                c: "Exhaust port",
+               d: "None of these",
+            },
+            correctAnswer: "c" ///// Write the correct option inside double quotes
+        },{
+            question: "In pneumatic 3/2 way valve 3 and 2 means", ///// Write the question inside double quotes
+            answers: {
+                a: "Three ports and two positions", ///// Write the option 1 inside double quotes
+                b: "Three positions and two ports", ///// Write the option 2 inside double quotes
+                c: "Two position and Three ports",
+               d: "None of these",
+            },
+            correctAnswer: "a" ///// Write the correct option inside double quotes
+        },{
+            question: "FRL unit stand for air", ///// Write the question inside double quotes
+            answers: {
+                a: "Fixing, regulation and lubrication", ///// Write the option 1 inside double quotes
+                b: "Filtration, regulation and lubrication", ///// Write the option 2 inside double quotes
+                c: "Filtration, reservoir and lubrication",
+               d: "None of these",
+            },
+            correctAnswer: "b" ///// Write the correct option inside double quotes
+        },{
+            question: "Pneumatic cylinders are device for converting the air__________into linear mechanical force and motion.", ///// Write the question inside double quotes
+            answers: {
+                a: "Level", ///// Write the option 1 inside double quotes
+                b: "Pressure", ///// Write the option 2 inside double quotes
+                c: "Temperature",
+               d: "Flow",
+            },
+            correctAnswer: "b" ///// Write the correct option inside double quotes
+        },
 
 
 

@@ -1,0 +1,1 @@
+Design and develop pneumatic circuit to operate single acting cylinder for specific load and speed

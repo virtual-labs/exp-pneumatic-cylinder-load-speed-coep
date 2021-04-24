@@ -1,1 +1,46 @@
-[{"question":"In pneumatic direction control valve port P stands for:","answers":{"a":"Exhaust port","b":"Primary port","c":"None of these","d":"Compressor line port"},"correctAnswer":"d"},{"question":"In pneumatic direction control valve port R stand for:","answers":{"a":"Working port","b":"Receiver port","c":"Exhaust port","d":"None of these"},"correctAnswer":"c"},{"question":"In pneumatic 3/2 way valve 3 and 2 means","answers":{"a":"Three ports and two positions","b":"Three positions and two ports","c":"Two position and Three ports","d":"None of these"},"correctAnswer":"a"},{"question":"FRL unit stand for air","answers":{"a":"Fixing, regulation and lubrication","b":"Filtration, regulation and lubrication","c":"Filtration, reservoir and lubrication","d":"None of these"},"correctAnswer":"b"},{"question":"Pneumatic cylinders are device for converting the air__________into linear mechanical force and motion.","answers":{"a":"Level","b":"Pressure","c":"Temperature","d":"Flow"},"correctAnswer":"b"}]
+[{
+	"question": "In pneumatic direction control valve port P stands for:",
+	"answers": {
+		"a": "Exhaust port",
+		"b": "Primary port",
+		"c": "None of these",
+		"d": "Compressor line port"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "In pneumatic direction control valve port R stand for:",
+	"answers": {
+		"a": "Working port",
+		"b": "Receiver port",
+		"c": "Exhaust port",
+		"d": "None of these"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "In pneumatic 3/2 way valve 3 and 2 means",
+	"answers": {
+		"a": "Three ports and two positions",
+		"b": "Three positions and two ports",
+		"c": "Two position and Three ports",
+		"d": "None of these"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "FRL unit stand for air",
+	"answers": {
+		"a": "Fixing, regulation and lubrication",
+		"b": "Filtration, regulation and lubrication",
+		"c": "Filtration, reservoir and lubrication",
+		"d": "None of these"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "Pneumatic cylinders are device for converting the air__________into linear mechanical force and motion.",
+	"answers": {
+		"a": "Level",
+		"b": "Pressure",
+		"c": "Temperature",
+		"d": "Flow"
+	},
+	"correctAnswer": "b"
+}]

@@ -1,1 +1,46 @@
-[{"question":"For SA cylinders can producer work in_________direction.","answers":{"a":"One","b":"Two","c":"Both","d":"None of these"},"correctAnswer":"a"},{"question":"Pneumatic valve are represented by symbols using _________standard.","answers":{"a":"ISO 1219-3:2006","b":"ISO 1219-2:2006","c":"ISO 1219-1:2006","d":"None of these"},"correctAnswer":"c"},{"question":"Pneumatic direction control valve may be actuated using different means:","answers":{"a":"Manual","b":"Pneumatic","c":"Hydraulic  ","d":"All of these"},"correctAnswer":"d"},{"question":"Singal acting cylinder can be used in following application:","answers":{"a":"Ejecting","b":"Sorting","c":"All of these","d":"Clamping"},"correctAnswer":"c"},{"question":"The piston force exerted by a working element is depend on ","answers":{"a":"Frictional resistance of the sealing components","b":"All of these","c":"Air pressure","d":"Cylinder diameter"},"correctAnswer":"b"}]
+[{
+	"question": "For SA cylinders can producer work in_________direction.",
+	"answers": {
+		"a": "One",
+		"b": "Two",
+		"c": "Both",
+		"d": "None of these"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Pneumatic valve are represented by symbols using _________standard.",
+	"answers": {
+		"a": "ISO 1219-3:2006",
+		"b": "ISO 1219-2:2006",
+		"c": "ISO 1219-1:2006",
+		"d": "None of these"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "Pneumatic direction control valve may be actuated using different means:",
+	"answers": {
+		"a": "Manual",
+		"b": "Pneumatic",
+		"c": "Hydraulic  ",
+		"d": "All of these"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "Singal acting cylinder can be used in following application:",
+	"answers": {
+		"a": "Ejecting",
+		"b": "Sorting",
+		"c": "All of these",
+		"d": "Clamping"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "The piston force exerted by a working element is depend on ",
+	"answers": {
+		"a": "Frictional resistance of the sealing components",
+		"b": "All of these",
+		"c": "Air pressure",
+		"d": "Cylinder diameter"
+	},
+	"correctAnswer": "b"
+}]
